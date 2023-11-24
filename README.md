@@ -1,11 +1,19 @@
 # VeryNice-NoteTaker
 
 ## Description
-The VeryNice NotTaker is an application to that allows you to write, save and delete notes. This application was built with Express.js, Heroku, JavaScript, 
+The VeryNice NotTaker is an application to that allows you to write, save and delete notes. This application was built with Express.js, Heroku, JavaScript, and JSON. I had challenges getting the notes to save and delete as well as connecting the front-end and back-end in general. 
 
 ## Installation 
 
+Invoking npm i 
+
 ## Usage
+
+Once you load the application, the homepage appears and the user then clicks the "Get Started" button. Then you can add text to the "title" and "text" fields. At the top right corner of the page, there is a save icon, you clicke that icon to save your note. Once the note is saved, it moves to the left side of the page and you have the option to delete notes. There is a delete icon next to each saved note. To add another note, you click the "+" button at the top right corner of the page.
+
+## Link to Deployed App
+
+https://verynicenotetaker-6bfbdfb41bd0.herokuapp.com/
 
 ## Contributors
 Rosa Valdez
